@@ -9,6 +9,8 @@ Web app allows to calculate mortage credit cost with 2 scenarios: equal installm
 
 Server address - localhost:8090
 
+Application overview:
+
 Input data 
 
 ![image](https://user-images.githubusercontent.com/67196477/116135198-1d025580-a6d1-11eb-8be4-32613a5a0510.png)
